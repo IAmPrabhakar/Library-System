@@ -66,7 +66,7 @@ function libraryFormSubmit(e) {
     let type;
     let ECE = document.getElementById('ECE');
     let CSE = document.getElementById('CSE');
-    let IT = document.getElementById('science');
+    let IT = document.getElementById('IT');
 
     if (ECE.checked) {
         type = ECE.value;
